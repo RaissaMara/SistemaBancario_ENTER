@@ -6,5 +6,6 @@ namespace InstituicaoFinanceira_ENTER.Interfaces
 {
     internal interface ITaxaSaque
     {
+        double CalcularTaxaSaque(double valorSaque);
     }
 }

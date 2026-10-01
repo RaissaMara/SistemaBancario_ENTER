@@ -6,5 +6,7 @@ namespace InstituicaoFinanceira_ENTER.Interfaces
 {
     internal interface IRendimento
     {
+        double CalcularRendimento();
+        void AplicarRendimento(int diaAtual);
     }
 }

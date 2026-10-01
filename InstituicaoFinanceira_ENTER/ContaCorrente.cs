@@ -1,7 +1,5 @@
 ﻿using InstituicaoFinanceira_ENTER.Interfaces;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace InstituicaoFinanceira_ENTER
 {
@@ -10,30 +8,39 @@ namespace InstituicaoFinanceira_ENTER
         public double TaxaSaque { get; private set; }
         public double LimiteChequeEspecial { get; private set; }
 
-        public ContaCorrente(int numeroConta, string titular, double saldoInicial, double TaxaSaque)
+        public ContaCorrente(string titular, double saldoInicial, double taxaSaque = 0.05)
+            : base(titular, saldoInicial)
         {
-            Id = numeroConta;
-            Titular = titular;
-            Saldo = saldoInicial;
-            this.TaxaSaque = 0.05; //5%
+            TaxaSaque = taxaSaque;
             LimiteChequeEspecial = 300;
         }
 
-        public double CalcularTaxaSaque(double valorSaque)
-        {
-            return valorSaque * TaxaSaque;
-        }
+        public double CalcularTaxaSaque(double valorSaque) => valorSaque * TaxaSaque;
 
-        public double CalcularTaxaSaque()
+        public override bool Sacar(double valor)
         {
-            return Saldo * TaxaSaque;
+            double taxa = CalcularTaxaSaque(valor);
+            double valorTotal = valor + taxa;
+
+            if (Saldo >= valorTotal)
+            {
+                return base.Sacar(valorTotal);
+            }
+            else if ((Saldo + LimiteChequeEspecial) >= valorTotal)
+            {
+                double restante = valorTotal - Saldo;
+                base.Sacar(Saldo);
+                LimiteChequeEspecial -= restante;
+                RegistrarOperacao($"Uso do cheque especial: R$ {restante:F2}");
+                return true;
+            }
+            return false;
         }
 
         public override void ExibirDetalhes()
         {
             base.ExibirDetalhes();
-            Console.WriteLine($" Saque + taxa: R$ {CalcularTaxaSaque():F2}");
+            Console.WriteLine($"Taxa de Saque: {TaxaSaque * 100}% || Limite Cheque Especial: R$ {LimiteChequeEspecial:F2}");
         }
-        
     }
 }

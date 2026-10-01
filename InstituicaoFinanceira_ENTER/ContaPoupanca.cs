@@ -1,8 +1,5 @@
 ﻿using InstituicaoFinanceira_ENTER.Interfaces;
-using Microsoft.VisualBasic;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace InstituicaoFinanceira_ENTER
 {
@@ -11,28 +8,29 @@ namespace InstituicaoFinanceira_ENTER
         public double TaxaRendimento { get; private set; }
         public int DiaAniversario { get; private set; }
 
-        public ContaPoupanca(int numeroConta, string titular, double saldoInicial, double TaxaRendimento, int DiaAniversario)
+        public ContaPoupanca(string titular, double saldoInicial, double taxaRendimento = 0.05, int diaAniversario = 1)
+            : base(titular, saldoInicial)
         {
-            Id = numeroConta;
-            Titular = titular;
-            Saldo = saldoInicial;
-            TaxaRendimento = 0.05; //5%
+            TaxaRendimento = taxaRendimento;
             DiaAniversario = diaAniversario;
         }
-        public double CalcularRendimento(double saldoInicial,double TaxaRendimento)
+
+        public double CalcularRendimento() => Saldo * TaxaRendimento;
+
+        public void AplicarRendimento(int diaAtual)
         {
-            return saldoInicial * TaxaRendimento;
+            if (diaAtual == DiaAniversario)
+            {
+                double rendimento = CalcularRendimento();
+                Depositar(rendimento);
+                RegistrarOperacao($"Rendimento aplicado: R$ {rendimento:F2}");
+            }
         }
-        public double CalcularRendimento()
-        {
-            return saldoInicial * TaxaRendimento;
-        }
+
         public override void ExibirDetalhes()
         {
             base.ExibirDetalhes();
-            Console.WriteLine($" Dia do Aniversário: {DiaAniversario}");
-            Console.WriteLine($" Rendimento Estimado: R$ {CalcularRendimento():F2}");
+            Console.WriteLine($"Dia do Aniversário: {DiaAniversario} || Taxa de Rendimento: {TaxaRendimento * 100}%");
         }
-
     }
 }
