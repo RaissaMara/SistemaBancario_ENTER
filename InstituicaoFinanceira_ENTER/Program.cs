@@ -52,13 +52,17 @@ namespace InstituicaoFinanceira_ENTER
 
                     case "3":
                         Console.Write("Informe a razão social da empresa: ");
-                        string titularE = Console.ReadLine();
+                        string razaoSocial = Console.ReadLine();
 
                         Console.Write("Digite o valor do depósito inicial: ");
                         double saldoE = double.Parse(Console.ReadLine());
 
-                        contaAtual = new ContaEmpresarial(titularE, saldoE);
-                        contaAtual.ExibirDetalhes();
+                        Console.Write("Digite o CNPJ da empresa: ");
+                        string cnpj = Console.ReadLine();
+
+                        ContaEmpresarial empresarial = new ContaEmpresarial(razaoSocial, saldoE, cnpj);
+                        empresarial.ExibirDetalhes();
+                        contaAtual = empresarial;
                         break;
 
                     case "4": // Depositar

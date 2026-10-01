@@ -58,8 +58,7 @@
               "RelativeToolTip": "InstituicaoFinanceira_ENTER\\Interfaces\\IContaComPagamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T19:28:33.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T19:28:33.125Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "InstituicaoFinanceira_ENTER\\ContaCorrente.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:26:52.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:26:52.807Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "InstituicaoFinanceira_ENTER\\ContaPoupanca.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:27:30.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:27:30.794Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "InstituicaoFinanceira_ENTER\\ContaEmpresarial.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:28:44.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:28:44.562Z"
             },
             {
               "$type": "Document",
@@ -108,7 +104,7 @@
               "RelativeDocumentMoniker": "InstituicaoFinanceira_ENTER\\Program.cs",
               "ToolTip": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\Program.cs",
               "RelativeToolTip": "InstituicaoFinanceira_ENTER\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwDkAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T02:08:39.481Z",
               "EditorCaption": ""
@@ -123,8 +119,7 @@
               "RelativeToolTip": "InstituicaoFinanceira_ENTER\\Interfaces\\IRendimento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T19:29:32.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T19:29:32.335Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "InstituicaoFinanceira_ENTER\\Interfaces\\ITaxaSaque.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T19:29:47.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T19:29:47.035Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "InstituicaoFinanceira_ENTER\\ContaBancaria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T06:21:11.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T06:21:11.56Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-01T05:41:51.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T05:41:51.366Z"
             }
           ]
         }
