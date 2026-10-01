@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62CBC5B9-FDC6-45DA-9F96-FE0A51E44039}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|c:\\users\\raiss\\source\\repos\\instituicaofinanceira_enter\\instituicaofinanceira_enter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62CBC5B9-FDC6-45DA-9F96-FE0A51E44039}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|solutionrelative:instituicaofinanceira_enter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|c:\\users\\raiss\\source\\repos\\instituicaofinanceira_enter\\instituicaofinanceira_enter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|solutionrelative:instituicaofinanceira_enter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "InstituicaoFinanceira_ENTER\\Program.cs",
               "ToolTip": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\Program.cs",
               "RelativeToolTip": "InstituicaoFinanceira_ENTER\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T02:08:39.481Z",
               "EditorCaption": ""
