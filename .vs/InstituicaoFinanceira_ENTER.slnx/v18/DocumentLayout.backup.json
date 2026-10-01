@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|c:\\users\\raiss\\source\\repos\\instituicaofinanceira_enter\\instituicaofinanceira_enter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|solutionrelative:instituicaofinanceira_enter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|c:\\users\\raiss\\source\\repos\\instituicaofinanceira_enter\\instituicaofinanceira_enter\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|solutionrelative:instituicaofinanceira_enter\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|c:\\users\\raiss\\source\\repos\\instituicaofinanceira_enter\\instituicaofinanceira_enter\\instituicaofinanceira_enter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|solutionrelative:instituicaofinanceira_enter\\instituicaofinanceira_enter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|c:\\users\\raiss\\source\\repos\\instituicaofinanceira_enter\\instituicaofinanceira_enter\\interfaces\\itaxasaque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|solutionrelative:instituicaofinanceira_enter\\interfaces\\itaxasaque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|c:\\users\\raiss\\source\\repos\\instituicaofinanceira_enter\\instituicaofinanceira_enter\\interfaces\\icontacompagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|solutionrelative:instituicaofinanceira_enter\\interfaces\\icontacompagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|c:\\users\\raiss\\source\\repos\\instituicaofinanceira_enter\\instituicaofinanceira_enter\\interfaces\\irendimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|solutionrelative:instituicaofinanceira_enter\\interfaces\\irendimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "InstituicaoFinanceira_ENTER\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\ContaBancaria.cs*",
+              "RelativeToolTip": "InstituicaoFinanceira_ENTER\\ContaBancaria.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T06:21:11.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITaxaSaque.cs",
+              "DocumentMoniker": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\Interfaces\\ITaxaSaque.cs",
+              "RelativeDocumentMoniker": "InstituicaoFinanceira_ENTER\\Interfaces\\ITaxaSaque.cs",
+              "ToolTip": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\Interfaces\\ITaxaSaque.cs",
+              "RelativeToolTip": "InstituicaoFinanceira_ENTER\\Interfaces\\ITaxaSaque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T05:49:54.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContaComPagamento.cs",
+              "DocumentMoniker": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\Interfaces\\IContaComPagamento.cs",
+              "RelativeDocumentMoniker": "InstituicaoFinanceira_ENTER\\Interfaces\\IContaComPagamento.cs",
+              "ToolTip": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\Interfaces\\IContaComPagamento.cs",
+              "RelativeToolTip": "InstituicaoFinanceira_ENTER\\Interfaces\\IContaComPagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T05:49:25.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstituicaoFinanceira_ENTER",
+              "DocumentMoniker": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj",
+              "RelativeDocumentMoniker": "InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj",
+              "ToolTip": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj*",
+              "RelativeToolTip": "InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-01T05:41:51.366Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +96,22 @@
               "RelativeDocumentMoniker": "InstituicaoFinanceira_ENTER\\Program.cs",
               "ToolTip": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\Program.cs*",
               "RelativeToolTip": "InstituicaoFinanceira_ENTER\\Program.cs*",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAUwIEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T02:08:39.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRendimento.cs",
+              "DocumentMoniker": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\Interfaces\\IRendimento.cs",
+              "RelativeDocumentMoniker": "InstituicaoFinanceira_ENTER\\Interfaces\\IRendimento.cs",
+              "ToolTip": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\Interfaces\\IRendimento.cs",
+              "RelativeToolTip": "InstituicaoFinanceira_ENTER\\Interfaces\\IRendimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T05:50:39.396Z",
               "EditorCaption": ""
             }
           ]

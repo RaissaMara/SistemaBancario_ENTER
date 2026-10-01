@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|c:\\users\\raiss\\source\\repos\\instituicaofinanceira_enter\\instituicaofinanceira_enter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|solutionrelative:instituicaofinanceira_enter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|c:\\users\\raiss\\source\\repos\\instituicaofinanceira_enter\\instituicaofinanceira_enter\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|solutionrelative:instituicaofinanceira_enter\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|c:\\users\\raiss\\source\\repos\\instituicaofinanceira_enter\\instituicaofinanceira_enter\\instituicaofinanceira_enter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{834F9BD1-C588-2638-1CB8-5E616216E3D9}|InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj|solutionrelative:instituicaofinanceira_enter\\instituicaofinanceira_enter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstituicaoFinanceira_ENTER",
+              "DocumentMoniker": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj",
+              "RelativeDocumentMoniker": "InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj",
+              "ToolTip": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj",
+              "RelativeToolTip": "InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-01T05:41:51.366Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +45,22 @@
               "RelativeDocumentMoniker": "InstituicaoFinanceira_ENTER\\Program.cs",
               "ToolTip": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\Program.cs",
               "RelativeToolTip": "InstituicaoFinanceira_ENTER\\Program.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAEgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T02:08:39.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "InstituicaoFinanceira_ENTER\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\raiss\\source\\repos\\InstituicaoFinanceira_ENTER\\InstituicaoFinanceira_ENTER\\ContaBancaria.cs",
+              "RelativeToolTip": "InstituicaoFinanceira_ENTER\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T06:21:11.56Z",
               "EditorCaption": ""
             }
           ]
