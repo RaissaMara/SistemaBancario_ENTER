@@ -14,56 +14,17 @@ namespace InstituicaoFinanceira_ENTER
         public string Titular { get; set; }
         public double Saldo { get; set; }
 
-        public ContaBancaria(string titular, Saldo deposito)
-        { 
+        public ContaBancaria(string titular, double Saldo)
+        {
             Id = numeroContaID++;
             Titular = titular;
-            Saldo = deposito;
+            Saldo = saldoInicial;
         }
         public virtual void ExibirDetalhes()
         {
+            ContaBancaria.ExibirDetalhes();
             Console.WriteLine($"Conta Bancária: {Id} || Titular: {Titular} || Saldo Disponível: R$ {Saldo:F2}");
         }
-
-        public class ContaCorrente: ContaBancaria, ITaxaSaque 
-        { 
-        
-            public double CalcularTaxaSaque()
-            {
-                return (Saque * taxaSaque) - Saldo;
-                //Saldo--;
-            }
-
-            public override void ExibirDetalhes()
-            {
-                    base.ExibirDetalhes();
-                Console.WriteLine($" Saque + taxa: R$ {CalcularTaxaSaque:F2}");
-            }
-        }
-
-        public class ContaPoupanca: ContaBancaria, IRendimento 
-        {
-        
-            public double CalcularRendimento()
-            {
-                return (Saldo * TaxaRendimento);
-                //Saldo++;
-            }
-
-
-        }
-
-        public class ContaEmpresarial: ContaBancaria, IContaComPagamento 
-        {
-            public double PagarTributo() //guia de imposto DAS para subtrair do saldo
-            {
-            
-            }
-
-            //limiteExtra += limiteDisponivel;
-
-        }
-
-
     }
+    
 }

@@ -14,3 +14,11 @@ C:\Users\raiss\source\repos\InstituicaoFinanceira_ENTER\InstituicaoFinanceira_EN
 C:\Users\raiss\source\repos\InstituicaoFinanceira_ENTER\InstituicaoFinanceira_ENTER\obj\Debug\net10.0\InstituicaoFinanceira_ENTER.genruntimeconfig.cache
 C:\Users\raiss\source\repos\InstituicaoFinanceira_ENTER\InstituicaoFinanceira_ENTER\obj\Debug\net10.0\ref\InstituicaoFinanceira_ENTER.dll
 C:\Users\raiss\source\repos\InstituicaoFinanceira_ENTER\InstituicaoFinanceira_ENTER\obj\Debug\net10.0\Institui.EB54567A.Up2Date
+C:\Users\020.720092\source\repos\SistemaBancario_ENTER\InstituicaoFinanceira_ENTER\obj\Debug\net10.0\InstituicaoFinanceira_ENTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\020.720092\source\repos\SistemaBancario_ENTER\InstituicaoFinanceira_ENTER\obj\Debug\net10.0\InstituicaoFinanceira_ENTER.AssemblyInfoInputs.cache
+C:\Users\020.720092\source\repos\SistemaBancario_ENTER\InstituicaoFinanceira_ENTER\obj\Debug\net10.0\InstituicaoFinanceira_ENTER.AssemblyInfo.cs
+C:\Users\020.720092\source\repos\SistemaBancario_ENTER\InstituicaoFinanceira_ENTER\obj\Debug\net10.0\InstituicaoFinanceira_ENTER.csproj.CoreCompileInputs.cache
+C:\Users\020.720092\source\repos\SistemaBancario_ENTER\InstituicaoFinanceira_ENTER\obj\Debug\net10.0\InstituicaoFinanceira_ENTER.sourcelink.json
+C:\Users\020.720092\source\repos\SistemaBancario_ENTER\InstituicaoFinanceira_ENTER\obj\Debug\net10.0\InstituicaoFinanceira_ENTER.dll
+C:\Users\020.720092\source\repos\SistemaBancario_ENTER\InstituicaoFinanceira_ENTER\obj\Debug\net10.0\refint\InstituicaoFinanceira_ENTER.dll
+C:\Users\020.720092\source\repos\SistemaBancario_ENTER\InstituicaoFinanceira_ENTER\obj\Debug\net10.0\InstituicaoFinanceira_ENTER.pdb
